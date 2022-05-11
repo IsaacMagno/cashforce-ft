@@ -55,7 +55,7 @@ import moment from "moment";
 
 import ProviderComponent from "./ProviderComponent.vue";
 
-const URL = "http://localhost:3003";
+const URL = "https://cashforce-db.herokuapp.com";
 
 export default {
   components: {

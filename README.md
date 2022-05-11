@@ -1,24 +1,29 @@
-# cashforce-ft
+# App CashForce
 
-## Project setup
+*Aplicativo para visualizar e gerenciar notas Fiscais.*
+
+
+#####  💻 Principais tecnologias utilizadas
+
+- [x] VueJS
+- [x] BootStrap
+
+##### Instalar dependencias
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+##### Iniciar em modo de desenvolvimento
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+##### Iniciar em modo de produção
 ```
 npm run build
 ```
 
-### Lints and fixes files
+##### Lint e corrigir arquivos
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

@@ -1,0 +1,48 @@
+<tr>
+  <td>100101</td>
+  <td>SACADO 001</td>
+  <td>CEDENTE 002</td>
+  <td>12/04/2020</td>
+  <td>R$ 20.000,00</td>
+  <td>RECEBIDO</td>
+  <td>
+    <button
+      type="button"
+      class="btn btn-outline-secondary btn-sm"
+    >
+      Dados do Cedente
+    </button>
+  </td>
+</tr>
+<tr>
+  <td>100101</td>
+  <td>SACADO 001</td>
+  <td>CEDENTE 002</td>
+  <td>12/04/2020</td>
+  <td>R$ 20.000,00</td>
+  <td>RECEBIDO</td>
+  <td>
+    <button
+      type="button"
+      class="btn btn-outline-secondary btn-sm"
+    >
+      Dados do Cedente
+    </button>
+  </td>
+</tr>
+<tr>
+  <td>100101</td>
+  <td>SACADO 001</td>
+  <td>CEDENTE 002</td>
+  <td>12/04/2020</td>
+  <td>R$ 20.000,00</td>
+  <td>RECEBIDO</td>
+  <td>
+    <button
+      type="button"
+      class="btn btn-outline-secondary btn-sm"
+    >
+      Dados do Cedente
+    </button>
+  </td>
+</tr>
